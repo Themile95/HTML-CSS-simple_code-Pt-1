@@ -1,0 +1,34 @@
+.division_1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  margin-right: 70px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+body {
+  margin: 0;
+  background-image: linear-gradient(
+    to bottom,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    purple
+  );
+}
+header {
+  background-color: rgb(251, 176, 149);
+}
+a {
+  text-decoration: none;
+  color: purple;
+}
+img {
+  height: 60px;
+  width: 70px;
+  margin-right: 60px;
+}
